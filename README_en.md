@@ -1,4 +1,4 @@
-[中](/README_zh.md)/en
+[中](/README.md)/en
 # Information Hiding and Digital Watermark 
 > TX104210
 ## Practice 1
